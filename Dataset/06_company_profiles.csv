@@ -1,0 +1,243 @@
+company_id,company_name,hq_country_code,hq_country,primary_domain,year_founded,strategic_focus,year,revenue_usd_bn,rd_expenditure_usd_bn,employees,geopolitical_exposure,sanction_risk_flag,is_synthetic
+CO0001,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2015,4.7,0.84,9942,High,0,0
+CO0002,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2016,6.1,1.45,11122,High,0,0
+CO0003,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2017,9.37,1.64,13066,High,0,0
+CO0004,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2018,11.61,2.27,13996,High,0,0
+CO0005,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2019,10.57,2.09,14993,High,0,0
+CO0006,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2020,11.19,2.56,19352,High,0,0
+CO0007,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2021,17.33,4.15,22695,High,0,0
+CO0008,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2022,25.76,4.89,30109,High,0,0
+CO0009,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2023,63.47,14.06,35389,High,0,0
+CO0010,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2024,133.06,30.19,40795,High,0,1
+CO0011,NVIDIA,US,United States,GPU/AI Accelerator,1993,GPU AI Training/Inference,2025,177.89,33.2,45103,High,0,1
+CO0012,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2015,3.78,0.65,9602,High,0,0
+CO0013,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2016,5.02,1.21,10264,High,0,0
+CO0014,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2017,5.06,0.88,10815,High,0,0
+CO0015,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2018,6.34,1.2,12592,High,0,0
+CO0016,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2019,6.76,1.38,13040,High,0,0
+CO0017,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2020,9.64,2.24,15688,High,0,0
+CO0018,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2021,16.15,2.9,21635,High,0,0
+CO0019,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2022,22.74,3.77,25766,High,0,0
+CO0020,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2023,22.62,5.06,25709,High,0,0
+CO0021,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2024,24.77,4.14,27059,High,0,1
+CO0022,AMD,US,United States,GPU/CPU,1969,GPU CPU Data Center,2025,28.5,6.19,28413,High,0,1
+CO0023,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2015,52.79,11.15,117667,High,0,0
+CO0024,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2016,58.84,14.05,107053,High,0,0
+CO0025,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2017,60.42,11.05,102282,High,0,0
+CO0026,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2018,72.93,17.14,112645,High,0,0
+CO0027,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2019,74.14,16.29,112855,High,0,0
+CO0028,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2020,79.96,12.05,123438,High,0,0
+CO0029,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2021,80.06,19.36,133160,High,0,0
+CO0030,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2022,65.42,16.0,133298,High,0,0
+CO0031,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2023,54.2,8.19,122338,High,0,0
+CO0032,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2024,55.25,10.78,109715,High,0,1
+CO0033,Intel,US,United States,CPU/Foundry/AI,1968,CPU Foundry AI-Gaudi,2025,57.42,10.68,101670,High,0,1
+CO0034,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2015,25.89,2.59,34344,High,0,0
+CO0035,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2016,14.92,1.8,30313,High,0,0
+CO0036,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2017,21.62,1.65,30507,High,0,0
+CO0037,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2018,21.19,1.61,34712,High,0,0
+CO0038,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2019,24.33,2.88,36654,High,0,0
+CO0039,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2020,23.98,2.94,43488,High,0,0
+CO0040,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2021,34.7,4.67,50642,High,0,0
+CO0041,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2022,45.78,2.33,50901,High,0,0
+CO0042,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2023,37.05,1.89,49570,High,0,0
+CO0043,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2024,41.22,4.89,50034,High,0,1
+CO0044,Qualcomm,US,United States,Mobile/Edge AI,1985,Mobile SoC Edge AI,2025,46.87,4.7,51083,High,0,1
+CO0045,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2015,9.5,1.23,14883,High,0,0
+CO0046,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2016,10.74,0.64,15784,High,0,0
+CO0047,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2017,14.96,1.73,17974,High,0,0
+CO0048,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2018,17.15,1.73,21686,High,0,0
+CO0049,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2019,17.17,2.04,20713,High,0,0
+CO0050,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2020,17.36,1.13,25248,High,0,0
+CO0051,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2021,24.12,3.25,29140,High,0,0
+CO0052,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2022,25.83,3.31,34325,High,0,0
+CO0053,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2023,26.92,3.12,33842,High,0,0
+CO0054,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2024,28.78,1.56,35329,High,0,1
+CO0055,Applied Materials,US,United States,Semiconductor Equipment,1967,Deposition Etch Equipment,2025,31.98,1.91,36236,High,0,1
+CO0056,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2015,5.55,0.63,7103,High,0,0
+CO0057,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2016,8.36,0.63,8631,High,0,0
+CO0058,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2017,8.28,0.76,9680,High,0,0
+CO0059,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2018,11.16,0.59,11295,High,0,0
+CO0060,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2019,9.79,0.84,12052,High,0,0
+CO0061,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2020,15.0,1.1,13078,High,0,0
+CO0062,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2021,16.78,1.6,17489,High,0,0
+CO0063,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2022,16.82,1.35,18868,High,0,0
+CO0064,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2023,13.74,1.74,18033,High,0,0
+CO0065,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2024,18.14,1.14,19247,High,0,1
+CO0066,Lam Research,US,United States,Semiconductor Equipment,1980,Etch Deposition Equipment,2025,21.86,2.57,20087,High,0,1
+CO0067,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2015,2.85,0.33,5550,High,0,0
+CO0068,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2016,3.17,0.39,6046,High,0,0
+CO0069,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2017,3.67,0.44,7054,High,0,0
+CO0070,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2018,4.61,0.69,7610,High,0,0
+CO0071,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2019,4.73,0.27,7835,High,0,0
+CO0072,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2020,5.93,0.76,9579,High,0,0
+CO0073,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2021,7.8,0.62,12073,High,0,0
+CO0074,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2022,10.77,1.28,14844,High,0,0
+CO0075,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2023,9.6,1.09,14705,High,0,0
+CO0076,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2024,11.54,1.64,16101,High,0,1
+CO0077,KLA Corporation,US,United States,Process Control,1975,Metrology Inspection,2025,14.66,1.92,16820,High,0,1
+CO0078,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2015,13.3,1.71,30480,High,0,0
+CO0079,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2016,11.87,0.99,18929,High,0,0
+CO0080,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2017,20.88,2.47,19430,High,0,0
+CO0081,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2018,30.71,4.42,34646,High,0,0
+CO0082,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2019,23.23,3.09,34304,High,0,0
+CO0083,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2020,22.25,1.78,39309,High,0,0
+CO0084,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2021,27.5,1.84,42887,High,0,0
+CO0085,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2022,30.79,3.07,48313,High,0,0
+CO0086,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2023,15.76,2.17,43236,High,0,0
+CO0087,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2024,31.32,4.33,40188,High,0,1
+CO0088,Micron Technology,US,United States,Memory,1978,DRAM NAND HBM,2025,43.34,2.68,42499,High,0,1
+CO0089,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2015,6.24,1.3,12908,Medium,0,0
+CO0090,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2016,6.67,1.24,15082,Medium,0,0
+CO0091,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2017,9.32,1.6,17091,Medium,0,0
+CO0092,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2018,10.72,2.02,21291,Medium,0,0
+CO0093,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2019,11.84,2.19,24142,Medium,0,0
+CO0094,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2020,13.71,2.35,26973,Medium,0,0
+CO0095,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2021,18.2,3.28,31439,Medium,0,0
+CO0096,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2022,21.21,4.43,39720,Medium,0,0
+CO0097,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2023,28.39,4.56,41236,Medium,0,0
+CO0098,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2024,33.01,5.58,45222,Medium,0,1
+CO0099,ASML,NL,Netherlands,Lithography,1984,EUV DUV Lithography Monopoly,2025,37.64,8.82,48074,Medium,0,1
+CO0100,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2015,25.43,5.64,45174,High,0,0
+CO0101,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2016,30.91,5.49,47577,High,0,0
+CO0102,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2017,33.18,7.4,47494,High,0,0
+CO0103,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2018,35.29,5.64,50807,High,0,0
+CO0104,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2019,34.39,6.03,51604,High,0,0
+CO0105,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2020,43.49,10.09,56575,High,0,0
+CO0106,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2021,54.68,8.22,65446,High,0,0
+CO0107,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2022,72.94,11.55,72653,High,0,0
+CO0108,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2023,71.7,16.17,77109,High,0,0
+CO0109,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2024,87.68,14.77,78072,High,0,1
+CO0110,TSMC,TW,Taiwan,Foundry,1987,Advanced Logic 3nm 5nm 7nm,2025,107.59,24.05,80051,High,0,1
+CO0111,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2015,5.95,0.85,14878,High,0,0
+CO0112,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2016,7.15,1.07,17298,High,0,0
+CO0113,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2017,8.22,1.06,16855,High,0,0
+CO0114,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2018,8.4,1.08,16831,High,0,0
+CO0115,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2019,10.23,1.18,16797,High,0,0
+CO0116,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2020,18.01,1.4,17730,High,0,0
+CO0117,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2021,17.5,2.21,19903,High,0,0
+CO0118,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2022,15.32,0.78,22143,High,0,0
+CO0119,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2023,14.08,1.09,18789,High,0,0
+CO0120,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2024,16.4,0.94,19928,High,0,1
+CO0121,MediaTek,TW,Taiwan,Mobile SoC,1997,Mobile Chips Edge AI,2025,20.5,2.2,22253,High,0,1
+CO0122,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2015,169.74,24.88,323977,Medium,0,0
+CO0123,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2016,168.82,22.65,311529,Medium,0,0
+CO0124,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2017,196.78,19.26,304830,Medium,0,0
+CO0125,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2018,218.27,31.21,307771,Medium,0,0
+CO0126,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2019,206.93,22.46,296895,Medium,0,0
+CO0127,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2020,202.75,17.41,282868,Medium,0,0
+CO0128,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2021,244.53,17.53,270725,Medium,0,0
+CO0129,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2022,225.17,23.59,274199,Medium,0,0
+CO0130,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2023,189.8,10.79,269334,Medium,0,0
+CO0131,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2024,212.19,11.92,260481,Medium,0,1
+CO0132,Samsung,KR,South Korea,Memory/Foundry,1969,DRAM NAND HBM Foundry,2025,269.9,31.68,251349,Medium,0,1
+CO0133,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2015,14.54,1.84,25895,Medium,0,0
+CO0134,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2016,17.0,1.71,27243,Medium,0,0
+CO0135,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2017,26.65,2.95,28292,Medium,0,0
+CO0136,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2018,37.02,5.36,30347,Medium,0,0
+CO0137,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2019,22.22,1.3,30092,Medium,0,0
+CO0138,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2020,23.86,3.19,29894,Medium,0,0
+CO0139,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2021,36.65,1.9,32295,Medium,0,0
+CO0140,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2022,36.47,2.64,34545,Medium,0,0
+CO0141,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2023,31.26,3.77,33909,Medium,0,0
+CO0142,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2024,49.77,5.82,35942,Medium,0,1
+CO0143,SK Hynix,KR,South Korea,Memory,1983,DRAM HBM AI Memory,2025,68.28,4.46,38382,Medium,0,1
+CO0144,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2015,5.84,0.78,10062,Medium,0,0
+CO0145,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2016,7.92,0.68,11097,Medium,0,0
+CO0146,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2017,9.53,1.3,12852,Medium,0,0
+CO0147,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2018,12.53,0.72,14252,Medium,0,0
+CO0148,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2019,11.94,1.45,14083,Medium,0,0
+CO0149,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2020,14.4,1.24,14151,Medium,0,0
+CO0150,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2021,17.91,0.92,14822,Medium,0,0
+CO0151,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2022,21.97,1.8,17706,Medium,0,0
+CO0152,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2023,18.64,2.5,22347,Medium,0,0
+CO0153,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2024,21.46,1.49,23648,Medium,0,1
+CO0154,Tokyo Electron,JP,Japan,Semiconductor Equipment,1963,Etch CVD Equipment,2025,28.27,1.93,26051,Medium,0,1
+CO0155,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2015,12.1,1.69,15932,Medium,0,0
+CO0156,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2016,12.01,1.21,16927,Medium,0,0
+CO0157,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2017,14.86,1.6,18265,Medium,0,0
+CO0158,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2018,14.78,2.18,19922,Medium,0,0
+CO0159,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2019,15.16,1.44,21236,Medium,0,0
+CO0160,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2020,16.35,1.97,21937,Medium,0,0
+CO0161,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2021,20.5,2.01,23006,Medium,0,0
+CO0162,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2022,20.66,2.97,23690,Medium,0,0
+CO0163,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2023,19.73,2.4,25300,Medium,0,0
+CO0164,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2024,22.64,2.54,26454,Medium,0,1
+CO0165,Shin-Etsu Chemical,JP,Japan,Materials,1926,Silicon Wafers Photoresists,2025,25.99,2.93,26641,Medium,0,1
+CO0166,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2015,8.22,1.02,7926,High,1,0
+CO0167,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2016,10.28,0.84,10132,High,1,0
+CO0168,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2017,14.25,1.77,11906,High,1,0
+CO0169,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2018,19.93,1.82,16062,High,1,0
+CO0170,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2019,21.26,1.23,19742,High,1,0
+CO0171,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2020,18.21,0.95,22306,High,1,0
+CO0172,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2021,11.48,1.42,17969,High,1,0
+CO0173,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2022,7.73,0.57,14862,High,1,0
+CO0174,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2023,6.93,0.59,13845,High,1,0
+CO0175,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2024,9.21,0.54,15066,High,1,1
+CO0176,Huawei HiSilicon,CN,China,AI Chip/Telecom,2004,Kirin Ascend Chips 5G,2025,12.17,1.75,16984,High,1,1
+CO0177,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2015,2.15,0.27,12108,High,1,0
+CO0178,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2016,2.82,0.28,13209,High,1,0
+CO0179,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2017,3.16,0.24,14787,High,1,0
+CO0180,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2018,3.43,0.34,16876,High,1,0
+CO0181,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2019,3.16,0.31,17095,High,1,0
+CO0182,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2020,3.71,0.34,19113,High,1,0
+CO0183,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2021,7.18,0.52,21642,High,1,0
+CO0184,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2022,7.1,0.66,27470,High,1,0
+CO0185,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2023,6.01,0.35,28581,High,1,0
+CO0186,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2024,7.06,0.71,30611,High,1,1
+CO0187,SMIC,CN,China,Foundry,2000,Mature Node Foundry 14nm+,2025,7.9,0.65,33401,High,1,1
+CO0188,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2015,0.01,0.0,504,High,1,0
+CO0189,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2016,0.02,0.0,805,High,1,0
+CO0190,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2017,0.04,0.0,1222,High,1,0
+CO0191,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2018,0.06,0.01,1776,High,1,0
+CO0192,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2019,0.12,0.02,2482,High,1,0
+CO0193,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2020,0.21,0.02,3048,High,1,0
+CO0194,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2021,0.34,0.03,3553,High,1,0
+CO0195,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2022,0.48,0.06,3941,High,1,0
+CO0196,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2023,0.73,0.07,4134,High,1,0
+CO0197,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2024,0.97,0.06,4544,High,1,1
+CO0198,Cambricon,CN,China,AI Accelerator,2016,AI Inference Chips,2025,1.46,0.15,4939,High,1,1
+CO0199,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2015,0.0,0.0,0,High,1,0
+CO0200,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2016,0.0,0.0,0,High,1,0
+CO0201,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2017,0.0,0.0,0,High,1,0
+CO0202,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2018,0.0,0.0,0,High,1,0
+CO0203,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2019,0.01,0.0,203,High,1,0
+CO0204,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2020,0.02,0.0,501,High,1,0
+CO0205,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2021,0.05,0.0,1017,High,1,0
+CO0206,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2022,0.1,0.01,1485,High,1,0
+CO0207,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2023,0.08,0.01,1220,High,1,0
+CO0208,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2024,0.12,0.01,1372,High,1,1
+CO0209,Biren Technology,CN,China,GPU/AI,2019,High-Performance GPU,2025,0.2,0.02,1770,High,1,1
+CO0210,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2015,0.1,0.01,101,Medium,0,0
+CO0211,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2016,0.2,0.01,203,Medium,0,0
+CO0212,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2017,0.3,0.02,502,Medium,0,0
+CO0213,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2018,0.51,0.03,983,Medium,0,0
+CO0214,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2019,0.77,0.09,2034,Medium,0,0
+CO0215,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2020,1.22,0.1,3006,Medium,0,0
+CO0216,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2021,2.02,0.13,4483,Medium,0,0
+CO0217,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2022,3.57,0.25,6896,Medium,0,0
+CO0218,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2023,5.16,0.58,10064,Medium,0,0
+CO0219,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2024,7.93,0.94,13941,Medium,0,1
+CO0220,G42,AE,United Arab Emirates,AI Infrastructure,2018,AI Cloud Data Centers,2025,12.29,1.81,18007,Medium,0,1
+CO0221,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2015,0.0,0.0,0,Medium,0,0
+CO0222,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2016,2.51,0.14,2501,Medium,0,0
+CO0223,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2017,5.04,0.64,5080,Medium,0,0
+CO0224,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2018,9.26,0.79,8877,Medium,0,0
+CO0225,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2019,10.71,1.16,10919,Medium,0,0
+CO0226,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2020,11.84,1.11,12029,Medium,0,0
+CO0227,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2021,14.68,2.04,14757,Medium,0,0
+CO0228,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2022,17.12,2.27,17641,Medium,0,0
+CO0229,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2023,20.99,1.08,20181,Medium,0,0
+CO0230,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2024,21.4,2.8,22415,Medium,0,1
+CO0231,Reliance Jio,IN,India,Telecom/AI,2016,AI Infrastructure 5G,2025,25.17,1.29,24736,Medium,0,1
+CO0232,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2015,5.24,0.27,12053,Medium,0,0
+CO0233,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2016,6.3,0.76,12341,Medium,0,0
+CO0234,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2017,6.28,0.36,13020,Medium,0,0
+CO0235,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2018,7.19,0.42,13545,Medium,0,0
+CO0236,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2019,7.45,1.06,14026,Medium,0,0
+CO0237,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2020,7.81,0.45,14743,Medium,0,0
+CO0238,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2021,7.7,0.76,15292,Medium,0,0
+CO0239,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2022,8.28,0.63,15667,Medium,0,0
+CO0240,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2023,9.2,1.18,16215,Medium,0,0
+CO0241,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2024,9.29,0.85,16435,Medium,0,1
+CO0242,STC,SA,Saudi Arabia,Telecom/AI,1998,AI Infrastructure Cloud,2025,9.99,0.95,16773,Medium,0,1
